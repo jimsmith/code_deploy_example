@@ -25,3 +25,5 @@ sed -i "s/sleep(.*)/sleep(10)/" install
 4.) Verify it is running.
 
 service codedeploy-agent status 
+
+https://www.youtube.com/watch?v=qZa5JXmsWZs
